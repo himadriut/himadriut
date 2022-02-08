@@ -1,4 +1,4 @@
-
+# Matlab code for solving stochastic partial differential equations
 
 nx=3. ;      %Size of the box-x .  this code is only for a cubic box.
 
