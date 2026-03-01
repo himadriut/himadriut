@@ -1,1 +1,17 @@
-I am a research scientist with 10+ years of diverse experience in collecting and analyzing data and building mathematical and computational models in statistical physics, and biophysics. The expertise in Analytics and Data science includes Python, machine learning, AI with deep learning, and statistical modeling. With a valuable blend of strong technical and business acumen delivered insights and implemented action-oriented solutions to complex business problems. I have designed several mathematical and computational models in protein folding, cell signaling pathways, and collective cell migration in cancer metastasis and embryogenesis. I have written and published research papers in peer-reviewed journals, presented at conferences, written grant proposals, trained undergraduate and graduate students, and taught lectures on selected topics in Physics.
+Applied Scientist | NLP | Retrieval-Augmented Generation (RAG) | AI for Healthcare
+
+PhD in Statistical Physics with research experience at the University of Texas at Austin. I build machine learning systems for language, multimodal data, and scientific applications.
+
+Current interests:
+• Retrieval-Augmented Generation (RAG)
+• NLP & LLM evaluation
+• Multimodal ML (speech + vision)
+• AI for healthcare
+
+Selected projects:
+• Alzheimer’s detection from speech (ADReSSo21)
+• Medical RAG systems
+• Multimodal PTSD detection
+• Magnetic anomaly navigation ML
+
+Google Scholar: https://scholar.google.fr/citations?user=eCdkDkQAAAAJ
